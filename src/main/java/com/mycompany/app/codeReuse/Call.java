@@ -1,4 +1,4 @@
-package com.mycompany.app.상속과코드재사용;
+package com.mycompany.app.codeReuse;
 
 import java.time.Duration;
 import java.time.LocalDateTime;
